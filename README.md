@@ -9,6 +9,8 @@
 3、npm install --save--dev babel-core@5<br/>
 //注意那个版本  必须是@5   因为后续版本已经没有browser的解析下载了<br/>
 将这三个js引入到页面中<br/>
+```html
 <script src="node_modules/react/dist/react.min.js"></script>
 <script src="node_modules/react-dom/dist/react-dom.min.js"></script>
 <script src="node_modules/babel-core/browser.min.js"></script>
+```
