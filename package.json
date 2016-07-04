@@ -1,0 +1,25 @@
+{
+  "name": "react_entry",
+  "version": "1.0.0",
+  "description": "初学react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoheidou/react_entry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoheidou/react_entry/issues"
+  },
+  "homepage": "https://github.com/xiaoheidou/react_entry#readme",
+  "dependencies": {
+    "babel-core": "^5.8.38",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  }
+}
